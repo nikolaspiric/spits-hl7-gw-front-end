@@ -6,6 +6,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import Dashboard from '@/components/Dashboard'
 import MySidebar from '@/components/MySidebar'
 import Home from '@/components/Home'
+import Navbar from '@/components/Navbar'
 
 Vue.use(Router)
 Vue.use(BootstrapVue)
